@@ -1,0 +1,11 @@
+.icon-demo {
+    cursor: pointer;
+}
+
+.icon-demo i {
+    font-size: 28px;
+}
+
+.icon-demo:hover i {
+    color: #11a1fd
+}
